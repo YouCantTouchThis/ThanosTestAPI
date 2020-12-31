@@ -3,6 +3,7 @@ botocore==1.19.45
 cycler==0.10.0
 decorator==4.4.2
 dlib==19.20.0
+gunicorn==19.8.1
 imageio==2.8.0
 imutils==0.5.3
 jmespath==0.10.0
